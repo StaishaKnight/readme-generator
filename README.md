@@ -1,5 +1,5 @@
-# sk
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# README Generator
+undefined
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -10,17 +10,17 @@
 
 
 ## Description
-sk
+This READ ME Generator allows you to create an informative outline for your project.
 ## Installation 
-sk
+node
 ## Usage 
-sk
+After the installation of Node, from your command line run node node index.js. Then run through the prompts explaining the details of your projects.               
 ## License
-Apache
+No License
 ## Contributing
-sk
+None
 ## Tests
-sk
+
 ## Questions
-If you have any questions you can contact me at sk
-or find me at sk
+If you have any questions you can contact me at For any questions please contact me at staishaknight@gmail.com
+or find me at https://github.com/StaishaKnight
